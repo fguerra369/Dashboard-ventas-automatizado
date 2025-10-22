@@ -14,5 +14,6 @@ Incluye integración con Excel y visualizaciones dinámicas.
 
 ## 📊 Resultado
 
-![Dashboard ejemplo](<img width="1863" height="911" alt="image" src="https://github.com/user-attachments/assets/6da11f23-550e-4797-85c7-4594da9781dd" />
+![Dashboard ejemplo](<img width="1863" height="911" alt="dashboard_interactivo" src="https://github.com/user-attachments/assets/6b5f7949-f8fe-4855-ba44-e01ec511b8ba" />
+
 )
